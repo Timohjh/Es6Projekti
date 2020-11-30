@@ -1,2 +1,1 @@
-# Es6Projekti
-https://es6-projekt-frontend.netlify.app/
+Projekti siirretty, sillä en saanut server kansiota näkymään. https://github.com/Timohjh/ES6Unipvk
